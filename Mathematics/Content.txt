@@ -1,0 +1,2 @@
+Table of Contents
+1) Minimal Swaps - Given two seq., permutation of one seq. is equal to other. find minimal swaps.
