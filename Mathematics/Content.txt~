@@ -2,4 +2,4 @@ Table of Contents
 1) Minimal Swaps - Given two seq., permutation of one seq. is equal to other. find minimal swaps.
 2) Euclidean Algorithm  - Given two number find the greatest common divisor.
 3) Modular Exponentiation - Find ( a ^ b ) % c in log(b) using recursion.
-
+4) Prime Sieve - Find prime number within the specified range n.
