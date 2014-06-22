@@ -4,3 +4,4 @@ Table of Contents
 3) Modular Exponentiation - ( a ^ b ) % c in log(b) using recursion.
 4) Prime Sieve - number who's factor's are 1 and itself.
 5) Euler Phi - no. of number's lesser than n, relatively prime to n.
+6) Play Prime - number of prime divisor, number of divisor, sum of divisor.
