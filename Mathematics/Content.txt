@@ -5,3 +5,4 @@ Table of Contents
 4) Prime Sieve - number who's factor's are 1 and itself.
 5) Euler Phi - no. of number's lesser than n, relatively prime to n.
 6) Play Prime - number of prime divisor, number of divisor, sum of divisor.
+7) Mobious Function - Finding Gcd of numbers using inclusion Exculsion Principle.
