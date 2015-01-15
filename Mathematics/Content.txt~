@@ -1,8 +1,0 @@
-Table of Contents
-1) Minimal Swaps - Given two seq., permutation of one seq. is equal to other. find minimal swaps.
-2) Euclidean Algorithm  - two number a and b, greatest factor that divides both a and b.
-3) Modular Exponentiation - ( a ^ b ) % c in log(b) using recursion.
-4) Prime Sieve - number who's factor's are 1 and itself.
-5) Euler Phi - no. of number's lesser than n, relatively prime to n.
-6) Play Prime - number of prime divisor, number of divisor, sum of divisor.
-7) Mobious Function - Finding Gcd of numbers using inclusion Exculsion Principle.
